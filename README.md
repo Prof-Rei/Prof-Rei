@@ -5,4 +5,11 @@ Meu nome é Reinaldo Melo
 - Trataremos assuntos relacionados a robótica e impressão 3D de forma ampla.
 - Projetos individuais ou educacionais serão compartilhados por aqui.
 
-- #Para me contactar, deixe um recado. Let's start. See you soon. 
+- #Para me contactar, deixe um recado. Let's start. See you soon.
+
+- Nosso conteúdo de estudo estará no [ALURA](https://www.alurastart.com.br/)
+
+
+ 
+![](https://media1.tenor.com/m/7Jjbe0KKRawAAAAd/conversation3d-printer-fall-crumble-conversation.gif)
+
